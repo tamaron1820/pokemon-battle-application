@@ -8,6 +8,10 @@ https://bulbapedia.bulbagarden.net/wiki/
 # DEMO
 
 
+https://github.com/tamaron1820/pokemon-battle-application/assets/104906428/52374885-4cf9-4084-bd6a-696ec9b75eef
+
+
+
 
 # Features
 
