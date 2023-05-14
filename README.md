@@ -29,5 +29,7 @@ HPのバーがそれぞれ表示されており、これらが0になったほ�
 自分のポケモンが勝った場合は相手のポケモンがゲットでき、Menu画面でその相手のポケモンが自分のポケモンとして選択できるようになっている。
 
 # Usage
+```bash
 git clone git@github.com:tamaron1820/pokemon-battle-application.git
+```
 pokedex.htmlをクリック
