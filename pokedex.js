@@ -1,11 +1,3 @@
-/*
- * Name: Tatsuhiko Araki
- * Date: May 9, 2023
- * Section: CSE 154 AA
- *
- * This is the JS file to implement the UI for my homework 3
- * This program generates pokemon battle
- */
 "use strict";
 
 (function() {
